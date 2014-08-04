@@ -6,7 +6,9 @@ This is the public repository for PocketRealm. You can find more information on 
 PocketRealm is a fun, feature-packed, community-driven, eventful, and friendly Minecraft: Pocket Edition survival server.
 
 ## Bug reporting
-Any bugs that affect the stability of the main or web server must be reported directly to an administrator through our main email admin@axim.io or on the server. You need to include the following information in your bug report to expedite the approval process:
+Any bugs that affect the stability of the main or web server must be reported directly to an administrator through our main email admin@axim.io or on the server. 
+
+You need to include the following information in your bug report to expedite the approval process:
 
 1. The issue or bug affecting you.
 2. The steps to reproduce this issue.
